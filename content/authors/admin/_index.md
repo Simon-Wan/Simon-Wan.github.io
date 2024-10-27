@@ -49,7 +49,7 @@ education:
     date_start: 2023-09-27
     date_end: ''
     summary: |
-      A PhD student at Social RL Lab, advised by Natasha Jaques.
+      A PhD student at UW Social RL Lab, advised by Natasha Jaques.
   - area: BEng Computer Science and Technology
     institution: IIIS, Tsinghua University
     date_start: 2019-08-15
@@ -65,8 +65,16 @@ work:
     company_logo: ''
     date_start: 2024-09-30
     date_end: ''
-    summary: |2-
-      A student researcher, hosted by Jiaxing Wu.
+    summary: |
+      A student researcher at Google, hosted by Jiaxing Wu.
+  - position: Visiting Student
+    company_name: Massachusetts Institute of Technology
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-02-15
+    date_end: 2022-07-31
+    summary: |
+      A visiting student at MIT CSAIL, advised by Josh Tenenbaum and Jiayuan Mao.
 
 ---
 
