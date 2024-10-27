@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 宛彦明
+title: Yanming Wan
 
 # Name pronunciation (optional)
-name_pronunciation: Yanming Wan
+name_pronunciation: 宛彦明
 
 # Full name (for SEO)
 first_name: Yanming
@@ -11,7 +11,7 @@ last_name: Wan
 
 # Status emoji
 status:
-  icon: 🎓
+  icon: 🇨🇳
 
 # Is this the primary user of the site?
 superuser: true
