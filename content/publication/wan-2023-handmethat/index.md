@@ -4,6 +4,10 @@ authors:
 - Yanming Wan
 - Jiayuan Mao
 - Joshua B. Tenenbaum
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 
 date: '2022-01-01'
 publishDate: '2024-10-27T23:24:51.978533Z'
 publication_types:

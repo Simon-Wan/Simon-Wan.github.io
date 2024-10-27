@@ -7,6 +7,12 @@ authors:
 - Hamish Ivison
 - Abhishek Gupta
 - Natasha Jaques
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2024-01-01'
 publishDate: '2024-10-27T23:24:51.988055Z'
 publication_types:

@@ -6,6 +6,12 @@ authors:
 - Yiping Wang
 - Jiayuan Mao
 - Natasha Jaques
+author_notes:
+  - 
+  - 
+  - 
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2024-01-01'
 publishDate: '2024-10-27T23:24:51.995443Z'
 publication_types:
