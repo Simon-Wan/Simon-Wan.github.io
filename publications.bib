@@ -1,4 +1,4 @@
-@proceedings{wan2023handmethat,
+@inproceedings{wan2023handmethat,
 	title = {HandMeThat: Human-Robot Communication in Physical and Social Environments},
 	url = {http://arxiv.org/abs/2310.03779},
 	abstract = {We introduce HandMeThat, a benchmark for a holistic evaluation of instruction understanding and following in physical and social environments. While previous datasets primarily focused on language grounding and planning, HandMeThat considers the resolution of human instructions with ambiguities based on the physical (object states and relations) and social (human actions and goals) information. HandMeThat contains 10,000 episodes of human-robot interactions. In each episode, the robot first observes a trajectory of human actions towards her internal goal. Next, the robot receives a human instruction and should take actions to accomplish the subgoal set through the instruction. In this paper, we present a textual interface for our benchmark, where the robot interacts with a virtual environment through textual commands. We evaluate several baseline models on HandMeThat, and show that both offline and online reinforcement learning algorithms perform poorly on HandMeThat, suggesting significant room for future work on physical and social human-robot communications and interactions.},
@@ -7,30 +7,29 @@
 	year = {2022},
 }
 
-@proceedings{poddar2024vpl,
+@inproceedings{poddar2024vpl,
 	title = {Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning},
 	url = {http://arxiv.org/abs/2408.10075},
 	abstract = {Reinforcement Learning from Human Feedback (RLHF) is a powerful paradigm for aligning foundation models to human values and preferences. However, current RLHF techniques cannot account for the naturally occurring differences in individual human preferences across a diverse population. When these differences arise, traditional RLHF frameworks simply average over them, leading to inaccurate rewards and poor performance for individual subgroups. To address the need for pluralistic alignment, we develop a class of multimodal RLHF methods. Our proposed techniques are based on a latent variable formulation - inferring a novel user-specific latent and learning reward models and policies conditioned on this latent without additional user-specific data. While conceptually simple, we show that in practice, this reward modeling requires careful algorithmic considerations around model architecture and reward scaling. To empirically validate our proposed technique, we first show that it can provide a way to combat underspecification in simulated control problems, inferring and optimizing user-specific reward functions. Next, we conduct experiments on pluralistic language datasets representing diverse user preferences and demonstrate improved reward function accuracy. We additionally show the benefits of this probabilistic framework in terms of measuring uncertainty, and actively learning user preferences. This work enables learning from diverse populations of users with divergent preferences, an important challenge that naturally occurs in problems from robot learning to foundation model alignment.},
-	publisher = {NeurIPS},
+	booktitle = {NeurIPS},
 	author = {Poddar, Sriyash and Wan, Yanming and Ivison, Hamish and Gupta, Abhishek and Jaques, Natasha},
 	year = {2024},
 }
 
-@proceedings{wan2024infer,
+@article{wan2024infer,
 	title = {Infer Human's Intentions Before Following Natural Language Instructions},
 	url = {http://arxiv.org/abs/2409.18073},
 	abstract = {For AI agents to be helpful to humans, they should be able to follow natural language instructions to complete everyday cooperative tasks in human environments. However, real human instructions inherently possess ambiguity, because the human speakers assume sufficient prior knowledge about their hidden goals and intentions. Standard language grounding and planning methods fail to address such ambiguities because they do not model human internal goals as additional partially observable factors in the environment. We propose a new framework, Follow Instructions with Social and Embodied Reasoning (FISER), aiming for better natural language instruction following in collaborative embodied tasks. Our framework makes explicit inferences about human goals and intentions as intermediate reasoning steps. We implement a set of Transformer-based models and evaluate them over a challenging benchmark, HandMeThat. We empirically demonstrate that using social reasoning to explicitly infer human intentions before making action plans surpasses purely end-to-end approaches. We also compare our implementation with strong baselines, including Chain of Thought prompting on the largest available pre-trained language models, and find that FISER provides better performance on the embodied social reasoning tasks under investigation, reaching the state-of-the-art on HandMeThat.},
-	urldate = {2024-10-27},
-	publisher = {NeurIPS Workshop on Open-World Agents},
+	journal = {arXiv preprint arXiv:2409.18073},
 	author = {Wan, Yanming and Wu, Yue and Wang, Yiping and Mao, Jiayuan and Jaques, Natasha},
 	year = {2024},
 }
 
-@proceedings{yang2024omr,
+@inproceedings{yang2024omr,
 	title = {Toward a More Complete OMR Solution},
 	url = {http://arxiv.org/abs/2409.00316},
 	abstract = {Optical music recognition (OMR) aims to convert music notation into digital formats. One approach to tackle OMR is through a multi-stage pipeline, where the system first detects visual music notation elements in the image (object detection) and then assembles them into a music notation (notation assembly). Most previous work on notation assembly unrealistically assumes perfect object detection. In this study, we focus on the MUSCIMA++ v2.0 dataset, which represents musical notation as a graph with pairwise relationships among detected music objects, and we consider both stages together. First, we introduce a music object detector based on YOLOv8, which improves detection performance. Second, we introduce a supervised training pipeline that completes the notation assembly stage based on detection output. We find that this model is able to outperform existing models trained on perfect detection output, showing the benefit of considering the detection and assembly stages in a more holistic way. These findings, together with our novel evaluation metric, are important steps toward a more complete OMR solution.},
-	publisher = {ISMIR},
+	booktitle = {ISMIR},
 	author = {Yang, Guang and Zhang, Muru and Qiu, Lin and Wan, Yanming and Smith, Noah A.},
 	year = {2024},
 }
