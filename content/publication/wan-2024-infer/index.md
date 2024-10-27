@@ -1,7 +1,7 @@
 ---
 title: Infer Human's Intentions Before Following Natural Language Instructions
 authors:
-- Yanming Wan
+- admin
 - Yue Wu
 - Yiping Wang
 - Jiayuan Mao

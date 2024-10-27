@@ -2,8 +2,6 @@
 # Display name
 title: Yanming Wan
 
-# Name pronunciation (optional)
-name_pronunciation: 宛彦明
 
 # Full name (for SEO)
 first_name: Yanming

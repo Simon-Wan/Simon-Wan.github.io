@@ -1,7 +1,7 @@
 ---
 title: 'HandMeThat: Human-Robot Communication in Physical and Social Environments'
 authors:
-- Yanming Wan
+- admin
 - Jiayuan Mao
 - Joshua B. Tenenbaum
 author_notes:

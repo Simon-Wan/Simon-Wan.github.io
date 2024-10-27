@@ -3,7 +3,7 @@ title: Personalizing Reinforcement Learning from Human Feedback with Variational
   Learning
 authors:
 - Sriyash Poddar
-- Yanming Wan
+- admin
 - Hamish Ivison
 - Abhishek Gupta
 - Natasha Jaques
