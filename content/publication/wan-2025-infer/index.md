@@ -1,11 +1,17 @@
 ---
 title: Infer Human's Intentions Before Following Natural Language Instructions
 authors:
-- Yanming Wan
+- admin
 - Yue Wu
 - Yiping Wang
 - Jiayuan Mao
 - Natasha Jaques
+author_notes:
+  - 
+  - 
+  - 
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2025-01-01'
 publishDate: '2024-12-10T23:58:42.829370Z'
 publication_types:
