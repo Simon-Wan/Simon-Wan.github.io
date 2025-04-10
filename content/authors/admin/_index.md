@@ -64,7 +64,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-09-30
-    date_end: ''
+    date_end: 2025-03-14
     summary: |
       A student researcher at Google, hosted by Jiaxing Wu.
   - position: Visiting Student
