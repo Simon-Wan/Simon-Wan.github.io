@@ -1,7 +1,7 @@
 ---
 title: Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward
 authors:
-- Yanming Wan
+- admin
 - Jiaxing Wu
 - Marwa Abdulhai
 - Lior Shani

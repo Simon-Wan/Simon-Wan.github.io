@@ -82,4 +82,4 @@ work:
 
 I am a second-year PhD student of Computer Science and Engineering at the University of Washington advised by [Natasha Jaques](https://natashajaques.ai/). Before UW, I received my bachelor degree in Computer Science and Technology from [YaoClass](https://iiis.tsinghua.edu.cn/) at Tsinghua University.
 
-My primary research interest is to build AI models that can better understand human intentions and take actions in the real world. 
+My primary research interest is to build AI models that can better understand human intentions or preferences, and then interact with humans in the real world. 
