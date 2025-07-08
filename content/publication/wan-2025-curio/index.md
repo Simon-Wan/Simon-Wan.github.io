@@ -6,6 +6,12 @@ authors:
 - Marwa Abdulhai
 - Lior Shani
 - Natasha Jaques
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 
+  - 
+  - 
 date: '2025-01-01'
 publishDate: '2025-07-08T05:03:58.390484Z'
 publication_types:
