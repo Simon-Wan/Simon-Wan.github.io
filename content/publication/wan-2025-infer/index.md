@@ -34,9 +34,8 @@ abstract: For AI agents to be helpful to humans, they should be able to follow n
   prompting on the largest available pre-trained language models, and find that FISER
   provides better performance on the embodied social reasoning tasks under investigation,
   reaching the state-of-the-art on HandMeThat.
+url_pdf: http://arxiv.org/abs/2409.18073
 links:
-- name: PAPER
-  url: http://arxiv.org/abs/2409.18073
 - name: WEBSITE
   url: https://sites.google.com/view/fiser-hmt/
 ---
