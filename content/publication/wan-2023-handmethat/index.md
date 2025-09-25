@@ -28,6 +28,8 @@ abstract: We introduce HandMeThat, a benchmark for a holistic evaluation of inst
   suggesting significant room for future work on physical and social human-robot communications
   and interactions.
 links:
-- name: URL
+- name: PAPER
   url: http://arxiv.org/abs/2310.03779
+- name: WEBSITE
+  url: https://sites.google.com/view/hand-me-that/
 ---
