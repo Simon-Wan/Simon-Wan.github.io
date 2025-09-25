@@ -35,6 +35,8 @@ abstract: For AI agents to be helpful to humans, they should be able to follow n
   provides better performance on the embodied social reasoning tasks under investigation,
   reaching the state-of-the-art on HandMeThat.
 links:
-- name: URL
+- name: PAPER
   url: http://arxiv.org/abs/2409.18073
+- name: WEBSITE
+  url: https://sites.google.com/view/fiser-hmt/
 ---
