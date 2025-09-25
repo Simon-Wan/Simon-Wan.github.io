@@ -16,7 +16,7 @@ date: '2025-01-01'
 publishDate: '2025-07-08T05:03:58.390484Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint arXiv:2504.03206*'
+publication: '*NeurIPS*'
 abstract: "Effective conversational agents like large language models (LLMs) must
   personalize their interactions to adapt to user preferences, personalities, and
   attributes across diverse domains like education and healthcare. Current methods
