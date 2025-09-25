@@ -35,9 +35,8 @@ abstract: "Effective conversational agents like large language models (LLMs) mus
   to traditional multi-turn RLHF, all while maintaining conversation quality. Our
   method offers a promising solution for creating more personalized, adaptive, and
   engaging conversational agents."
+url_pdf: http://arxiv.org/abs/2504.03206
 links:
-- name: PAPER
-  url: http://arxiv.org/abs/2504.03206
 - name: WEBSITE
   url: https://sites.google.com/cs.washington.edu/curio
 ---
