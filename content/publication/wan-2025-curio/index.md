@@ -36,6 +36,8 @@ abstract: "Effective conversational agents like large language models (LLMs) mus
   method offers a promising solution for creating more personalized, adaptive, and
   engaging conversational agents."
 links:
-- name: URL
+- name: PAPER
   url: http://arxiv.org/abs/2504.03206
+- name: WEBSITE
+  url: https://sites.google.com/cs.washington.edu/curio
 ---
