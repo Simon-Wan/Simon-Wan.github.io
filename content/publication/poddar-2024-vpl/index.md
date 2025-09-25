@@ -39,6 +39,8 @@ abstract: Reinforcement Learning from Human Feedback (RLHF) is a powerful paradi
   an important challenge that naturally occurs in problems from robot learning to
   foundation model alignment.
 links:
-- name: URL
+- name: PAPER
   url: http://arxiv.org/abs/2408.10075
+- name: WEBSITE
+  url: https://weirdlabuw.github.io/vpl/
 ---
