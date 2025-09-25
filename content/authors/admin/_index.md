@@ -60,13 +60,21 @@ education:
 
 work:
   - position: Student Researcher
-    company_name: Google
+    company_name: ByteDance Seed
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-09-15
+    date_end: 2025-12-12
+    summary: |
+      A student researcher at ByteDance Seed, mentored by Yizhong Wang.
+  - position: Student Researcher
+    company_name: Google DeepMind
     company_url: ''
     company_logo: ''
     date_start: 2024-09-30
     date_end: 2025-03-14
     summary: |
-      A student researcher at Google, hosted by Jiaxing Wu.
+      A student researcher at Google DeepMind, hosted by Jiaxing Wu.
   - position: Visiting Student
     company_name: Massachusetts Institute of Technology
     company_url: ''
