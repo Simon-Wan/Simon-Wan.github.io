@@ -27,9 +27,8 @@ abstract: We introduce HandMeThat, a benchmark for a holistic evaluation of inst
   offline and online reinforcement learning algorithms perform poorly on HandMeThat,
   suggesting significant room for future work on physical and social human-robot communications
   and interactions.
+url_pdf: http://arxiv.org/abs/2310.03779
 links:
-- name: PAPER
-  url: http://arxiv.org/abs/2310.03779
 - name: WEBSITE
   url: https://sites.google.com/view/hand-me-that/
 ---
