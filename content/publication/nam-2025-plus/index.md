@@ -34,7 +34,5 @@ abstract: "As everyday use cases of large language model (LLM) AI assistants hav
   compared to 28% for default GPT-4o); (3) learning from flexible user contexts beyond
   preference labels, and (4) interpretable representation of users, enabling greater
   transparency and user control in pluralistic LLM alignment."
-links:
-- name: URL
-  url: http://arxiv.org/abs/2507.13579
+url_pdf: http://arxiv.org/abs/2507.13579
 ---
