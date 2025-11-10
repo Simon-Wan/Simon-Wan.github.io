@@ -95,5 +95,5 @@ My primary research interest is to build AI models that can better understand hu
 ### News
 
 - Received [**Amazon AI PhD Fellowship**](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program)
-- Won the [**Madrona Prize**](https://www.cs.washington.edu/community-engagement/industry-affiliates/research-showcase/showcase-awards/) at Allen School’s annual Industry Affiliates Research Showcase
+- Won the [**Madrona Prize**](https://www.cs.washington.edu/community-engagement/industry-affiliates/research-showcase/showcase-awards/) at Allen School’s Industry Affiliates Research Showcase
 - [**CURIO**](https://sites.google.com/cs.washington.edu/curio) is accepted at NeurIPS 2025
