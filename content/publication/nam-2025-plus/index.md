@@ -3,7 +3,7 @@ title: Learning to summarize user information for personalized reinforcement lea
   from human feedback
 authors:
 - Hyunji Nam
-- Wan Yanming
+- admin
 - Mickel Liu
 - Jianxun Lian
 - Peter Ahnn
@@ -35,4 +35,5 @@ abstract: "As everyday use cases of large language model (LLM) AI assistants hav
   preference labels, and (4) interpretable representation of users, enabling greater
   transparency and user control in pluralistic LLM alignment."
 url_pdf: http://arxiv.org/abs/2507.13579
+featured: false
 ---

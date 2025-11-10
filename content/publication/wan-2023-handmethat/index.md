@@ -31,4 +31,5 @@ url_pdf: http://arxiv.org/abs/2310.03779
 links:
 - name: WEBSITE
   url: https://sites.google.com/view/hand-me-that/
+featured: true
 ---

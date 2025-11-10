@@ -26,4 +26,5 @@ abstract: Optical music recognition (OMR) aims to convert music notation into di
   a more holistic way. These findings, together with our novel evaluation metric,
   are important steps toward a more complete OMR solution.
 url_pdf: http://arxiv.org/abs/2409.00316
+featured: false
 ---

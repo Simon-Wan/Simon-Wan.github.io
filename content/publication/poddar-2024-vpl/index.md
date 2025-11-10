@@ -42,4 +42,5 @@ url_pdf: http://arxiv.org/abs/2408.10075
 links:
 - name: WEBSITE
   url: https://weirdlabuw.github.io/vpl/
+featured: true
 ---

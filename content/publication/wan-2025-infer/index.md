@@ -38,4 +38,5 @@ url_pdf: http://arxiv.org/abs/2409.18073
 links:
 - name: WEBSITE
   url: https://sites.google.com/view/fiser-hmt/
+featured: true
 ---

@@ -39,4 +39,5 @@ url_pdf: http://arxiv.org/abs/2504.03206
 links:
 - name: WEBSITE
   url: https://sites.google.com/cs.washington.edu/curio
+featured: true
 ---
