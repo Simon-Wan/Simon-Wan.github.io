@@ -88,6 +88,12 @@ work:
 
 ## About Me
 
-I am a second-year PhD student of Computer Science and Engineering at the University of Washington advised by [Natasha Jaques](https://natashajaques.ai/). Before UW, I received my bachelor degree in Computer Science and Technology from [YaoClass](https://iiis.tsinghua.edu.cn/) at Tsinghua University.
+I am a third-year PhD student of Computer Science and Engineering at the University of Washington advised by [Natasha Jaques](https://natashajaques.ai/). Before UW, I received my bachelor degree in Computer Science and Technology from [YaoClass](https://iiis.tsinghua.edu.cn/) at Tsinghua University.
 
 My primary research interest is to build AI models that can better understand human intentions or preferences, and then interact with humans in the real world. 
+
+### News
+
+- Received [**Amazon AI PhD Fellowship**](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program)
+- Won the [**Madrona Prize**](https://www.cs.washington.edu/community-engagement/industry-affiliates/research-showcase/showcase-awards/) at Allen School’s annual Industry Affiliates Research Showcase
+- [**CURIO**](https://sites.google.com/cs.washington.edu/curio) is accepted at NeurIPS 2025
